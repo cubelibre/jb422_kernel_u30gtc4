@@ -161,7 +161,7 @@ static u8 CTPM_FW[]=
 //#include "ft_app_u30gt2.i"
 //#include "20130305-u30gt2-ft5506_app.i"
 //#include "101050-01_app.i"
-#include "ft_app_u30gtc4_16.i"
+//#include "ft_app_u30gtc4_16.i"
 };
 
 typedef enum
